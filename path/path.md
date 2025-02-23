@@ -1,3 +1,6 @@
+Here is a simple flow chart:
+
+```mermaid
 graph LR
     subgraph 直接效应
     A[水流功率 ω] -->|β=0.58***| E[土壤分离能力 Dc]
